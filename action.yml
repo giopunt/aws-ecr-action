@@ -1,5 +1,5 @@
-name: AWS ECR
-author: Lee Sun-Hyoup <kciter@naver.com>, Pablo Castillo <pablo@castillo.is>
+name: AWS ECR PUSH
+author: Lee Sun-Hyoup <kciter@naver.com>, Pablo Castillo <pablo@castillo.is>, Giovanni Puntil <hello@giovannipuntil.com>
 branding:
   icon: upload-cloud
   color: orange
