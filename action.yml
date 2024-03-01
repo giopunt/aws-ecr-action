@@ -1,4 +1,4 @@
-name: DEPLOY DOCKER TO AWS ECR
+name: Build Docker Image and Push to AWS ECR
 author: Lee Sun-Hyoup <kciter@naver.com>, Pablo Castillo <pablo@castillo.is>, Giovanni Puntil <hello@giovannipuntil.com>
 branding:
   icon: upload-cloud
