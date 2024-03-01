@@ -1,4 +1,4 @@
-name: AWS ECR PUSH
+name: DEPLOY DOCKER TO AWS ECR
 author: Lee Sun-Hyoup <kciter@naver.com>, Pablo Castillo <pablo@castillo.is>, Giovanni Puntil <hello@giovannipuntil.com>
 branding:
   icon: upload-cloud
